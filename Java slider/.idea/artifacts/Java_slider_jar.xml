@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java slider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_slider_jar</output-path>
+    <root id="archive" name="Java slider.jar">
+      <element id="module-output" name="Java slider" />
+    </root>
+  </artifact>
+</component>

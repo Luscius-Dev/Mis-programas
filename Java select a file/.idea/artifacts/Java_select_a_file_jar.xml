@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java select a file:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_select_a_file_jar</output-path>
+    <root id="archive" name="Java select a file.jar">
+      <element id="module-output" name="Java select a file" />
+    </root>
+  </artifact>
+</component>

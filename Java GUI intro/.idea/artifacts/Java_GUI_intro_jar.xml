@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java GUI intro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_GUI_intro_jar</output-path>
+    <root id="archive" name="Java GUI intro.jar">
+      <element id="module-output" name="Java GUI intro" />
+    </root>
+  </artifact>
+</component>

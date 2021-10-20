@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java open a new gui window:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_open_a_new_gui_window_jar</output-path>
+    <root id="archive" name="Java open a new gui window.jar">
+      <element id="module-output" name="Java open a new gui window" />
+    </root>
+  </artifact>
+</component>
